@@ -4,7 +4,7 @@ import { mobileNumber, email } from '../../../public/constants/contactConstants'
 
 const Contact = () => {
     return (
-        <section className="contact">
+        <section className="contact" id='contact'>
             <div className="contact_bg" aria-hidden="true"></div>
 
             <div className="contact-header">
