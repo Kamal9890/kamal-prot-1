@@ -32,31 +32,7 @@ const App = () => {
 
   return (
    <>
-    <Warp/>
-    <Cursor/>
-
-    <div id='smooth-wrapper'>
-      <NavBar/>
-      <div id='smooth-content'>
-        <Hero/>
-        <WhoAmI/>
-        <Experience/>
-        <TechStack/>
-
-        <Projects/>
-        <Certifications/>
-        <Contact/>
-
-      
-    
-    
-
-
-    </div>
-    
-
-
-    </div>
+    <h1> Page not Found  < /h1>
    </>
   )
 }
